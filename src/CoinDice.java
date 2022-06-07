@@ -17,6 +17,10 @@ public class CoinDice {
 		}
 		System.out.println("Number of heads: " + heads);
 		System.out.println("Number of tails: " + tails);
+		
+		int die = (int)(Math.random() * 6) + 1;
+		System.out.println("Dice roll number: " + die);
+		
 	}
 	
 }
