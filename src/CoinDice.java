@@ -2,6 +2,7 @@
 public class CoinDice {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to the Coin Dice Game!");
 		int heads = 0;
 		int tails = 0;
 		for(int i = 0; i< 10; i++)  {
@@ -15,6 +16,7 @@ public class CoinDice {
 				tails++;
 			}
 		}
+		System.out.println("Welcome to the Coin dice game");
 		System.out.println("Number of heads: " + heads);
 		System.out.println("Number of tails: " + tails);
 		
