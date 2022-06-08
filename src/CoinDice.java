@@ -21,6 +21,7 @@ public class CoinDice {
 		for(int i = 0; i< 10; i++)  {
 			int die = (int)(Math.random() * 6) + 1;
 			System.out.println("Dice roll number: " + die);
+			//Add comment to confirm
 		}
 	}
 	

@@ -1,0 +1,29 @@
+[33mcommit 71cebcdb589c18e2958bb33d7d4dcf1705d1b0ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mark Hamilton <hamilm25@ferris.edu>
+Date:   Mon Jun 6 20:05:13 2022 -0400
+
+    Simulate ten dice rolls
+
+[33mcommit d34f250d819cd77555072f3e8d29dc957f309a3f[m
+Author: Mark Hamilton <hamilm25@ferris.edu>
+Date:   Mon Jun 6 20:03:36 2022 -0400
+
+    Simulate one dice roll
+
+[33mcommit 9cb314499ad38650660203fb2e704531fa89c92f[m
+Author: Mark Hamilton <hamilm25@ferris.edu>
+Date:   Mon Jun 6 19:58:07 2022 -0400
+
+    Print coin toss status
+
+[33mcommit 6757377bfe0246b97199f8bfb76c1127e6e74320[m
+Author: Mark Hamilton <hamilm25@ferris.edu>
+Date:   Mon Jun 6 19:55:03 2022 -0400
+
+    Simulate ten coin tosses
+
+[33mcommit 9d0c489927614873783f8f991d0709d8e0cd2846[m
+Author: Mark Hamilton <hamilm25@ferris.edu>
+Date:   Mon Jun 6 19:51:45 2022 -0400
+
+    Simulate one coin toss
